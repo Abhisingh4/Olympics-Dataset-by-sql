@@ -42,8 +42,7 @@ The goal of this project is to explore the "120 Years Of Olympics History" datas
 
 ## Tools Used
 
-- SQL
-- SQLite
+- PostgreSQL
 
 ## Conclusion
 
