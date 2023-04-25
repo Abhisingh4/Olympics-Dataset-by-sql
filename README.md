@@ -1,49 +1,50 @@
-# Olympics-Dataset-by-sql
-For this exploratory data analysis project, the dataset is obtained from kaggle which includes every modern Olympic Games from Athens in 1896 through Rio in 2016. Until 1992, the Winter and Summer Games were held in the same year. Following that, they staggered them such that the Winter Games occur on a four-year cycle beginning in 1994, followed by Summer in 1996, Winter in 1998, and so on.
 
-# DATA
-You can download the dataset from here. Or, you can download it by clicking on the below download button “Download Olympics Dataset”. https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/download
+
+# 120 Years Of Olympics History Dataset Analysis
+
+This project involves the analysis of the "120 Years Of Olympics History" dataset from Kaggle using SQL. The dataset contains information on Olympic games from Athens 1896 to Rio 2016. The purpose of this project is to gain insights and answer questions related to the Olympics games over the years using SQL queries.
 
 ![image](https://user-images.githubusercontent.com/131655075/234249918-b349604c-dcb8-4d1f-a893-3405573c28a0.png)
 
-There are two files included as part of data namely athlete_events.csv and noc_regions.csv. The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
+## Dataset
 
-ID - Unique number for each athlete
+The "120 Years Of Olympics History" dataset contains 271116 rows and 15 columns. The columns are:
 
-Name - Athlete's name
+- ID
+- Name
+- Sex
+- Age
+- Height
+- Weight
+- Team
+- NOC
+- Games
+- Year
+- Season
+- City
+- Sport
+- Event
+- Medal
 
-Sex - M or F
+The dataset can be downloaded from the following link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-Age - Integer
+## Project Goal
 
-Height - In centimeters
+The goal of this project is to explore the "120 Years Of Olympics History" dataset using SQL queries and answer the following questions:
 
-Weight - In kilograms
+1. What is the total number of medals awarded in each year?
+2. Which country has won the most medals in the history of the Olympics?
+3. What is the total number of gold, silver, and bronze medals won by the United States in each Olympics?
+4. What is the most popular sport in terms of the number of athletes who have participated in the Olympics?
+5. What is the average height and weight of male and female athletes in the Olympics?
+6. What is the trend in the number of female athletes over the years?
+7. Which country has hosted the Olympics the most number of times?
 
-Team - Team name
+## Tools Used
 
-NOC - National Olympic Committee 3-letter code
+- SQL
+- SQLite
 
-Games - Year and season
+## Conclusion
 
-Year - Integer
-
-Season - Summer or Winter
-
-City - Host city
-
-Sport - Sport
-
-Event - Event
-
-Medal - Gold, Silver, Bronze, or NA
-
-The noc_regions.csv contains 230 rows and 3 columns. The columns are:
-
-
-NOC - National Olympic Committee 3-letter code
-
-Region - Name of countries
-
-Notes - Notes
-
+In conclusion, this project has demonstrated the use of SQL queries to gain insights from the "120 Years Of Olympics History" dataset. The analysis has answered the questions posed and provided a better understanding of the history of the Olympics. Further analysis can be done using more complex SQL queries and visualization tools.
