@@ -9,8 +9,11 @@ You can download the dataset from here. Or, you can download it by clicking on t
 There are two files included as part of data namely athlete_events.csv and noc_regions.csv. The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 
 ID - Unique number for each athlete
+
 Name - Athlete's name
+
 Sex - M or F
+
 Age - Integer
 Height - In centimeters
 Weight - In kilograms
