@@ -25,5 +25,4 @@ CREATE TABLE nr
     
 );
 
-select * from OLYMPICS_event;
-select * from REGIONS;
+
