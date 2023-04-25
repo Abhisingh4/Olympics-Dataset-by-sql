@@ -1,7 +1,8 @@
 # Olympics-Dataset-by-sql
 For this exploratory data analysis project, the dataset is obtained from kaggle which includes every modern Olympic Games from Athens in 1896 through Rio in 2016. Until 1992, the Winter and Summer Games were held in the same year. Following that, they staggered them such that the Winter Games occur on a four-year cycle beginning in 1994, followed by Summer in 1996, Winter in 1998, and so on.
 
-Link to the dataset: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+# DATA
+You can download the dataset from here. Or, you can download it by clicking on the below download button “Download Olympics Dataset”. https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/download
 
 ![image](https://user-images.githubusercontent.com/131655075/234249918-b349604c-dcb8-4d1f-a893-3405573c28a0.png)
 
