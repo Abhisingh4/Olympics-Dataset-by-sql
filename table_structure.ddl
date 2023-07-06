@@ -1,4 +1,4 @@
-CREATE TABLE oh
+CREATE TABLE olympic_history
 (
     id          INT,
     name        VARCHAR,
@@ -18,7 +18,7 @@ CREATE TABLE oh
 );
 
 
-CREATE TABLE nr
+CREATE TABLE noc_region
 (
     noc         VARCHAR,
     region      VARCHAR,
